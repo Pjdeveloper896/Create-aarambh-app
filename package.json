@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "bin": {
-    "create-aarambh-app": "./cli.js"
+    "create-aarambh-app": "./cli.mjs"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
