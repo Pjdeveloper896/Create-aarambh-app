@@ -55,7 +55,7 @@ All files are copied from the built-in `template/` folder included in the CLI.
 
 **Aarambh.js** is a lightweight JavaScript framework focused on fast, simple, and modern web development.
 
-👉 Learn more at: [Aarambh.js Documentation](#) *(link coming soon)*
+👉 Learn more at: [Aarambh.js Documentation](https://aarambhjs-landing-page.vercel.app/)
 
 ---
 
