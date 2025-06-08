@@ -1,0 +1,13 @@
+{
+  "name": "aarambh-app",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "vite"
+  },
+  "dependencies": {
+    "aarambhjs": "^1.0.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
