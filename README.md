@@ -63,6 +63,7 @@ All files are copied from the built-in `template/` folder included in the CLI.
 
 * Edit the template files inside the `template/` directory.
 * Improve the CLI logic in `cli.js` or `index.js`.
+[![Tweet Badge](https://img.shields.io/badge/🔥%20Featured%20on-Twitter-blue?style=for-the-badge&logo=twitter)](https://x.com/prod42net/status/1931658936714727492)
 
 Pull requests welcome!
 
