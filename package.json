@@ -1,6 +1,6 @@
 {
   "name": "create-aarambh-app",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "main": "index.js",
   "bin": {
     "create-aarambh-app": "./cli.mjs"
